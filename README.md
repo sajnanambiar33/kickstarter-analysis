@@ -12,6 +12,10 @@
 * Pivot chart created using the combed data from the pivot table. 
 
 Line chart is created using the data from the table. 
+![image](https://user-images.githubusercontent.com/100480390/156901093-5690a4e6-7a7c-4f34-8cb4-6f9f2d61cac1.png)
+![image](https://user-images.githubusercontent.com/100480390/156901153-97778e8f-3557-4743-b5cb-5a60bf8b64bd.png)
+
+
 ### Analysis of Outcomes Based on Goals
    New columns are created in a new sheet for goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled. 
 
@@ -33,6 +37,8 @@ Number of theatre campaigns launched and successful were the highest for the mon
 
 - What are some other possible tables and/or graphs that we could create?
 A funnel chart or a clustered column would be a good representation of this data.
+![image](https://user-images.githubusercontent.com/100480390/156901106-ca1e80c3-d321-411e-b377-245be3491765.png)
+![image](https://user-images.githubusercontent.com/100480390/156901134-08639d78-3e05-4d61-864a-73fe3506cff2.png)
 
 
  
